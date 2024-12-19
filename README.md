@@ -4,7 +4,7 @@ Animal Fun Facts_CodeCademy
 
 > In this project, we’ll build a program that allows users to click an animal on the screen in order to have a fun fact pop up.
 
-![React jsx project](https://content.codecademy.com/courses/React/react_jsx_project_preview.gif)
+<p align="center">![React jsx project](https://content.codecademy.com/courses/React/react_jsx_project_preview.gif)</p>
 
 > A preview that displays the final result of the Animal Fun Facts project. A user clicks on images of different animals, which displays a fun fact about them.
 
